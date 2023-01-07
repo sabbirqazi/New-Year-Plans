@@ -119,15 +119,20 @@ nav {
   display: flex;
   justify-content: space-around;
 }
-h4 {
+h3 {
   font-weight: 700;
-  font-size: 30px;
+  font-size: 20px;
+  margin-top: 20px;
 }
 .plans-title {
   font-weight: 700;
   font-size: 40px;
   text-align: center;
+  
   margin-bottom: 55px;
+}
+.plan p{
+    text-align: center;
 }
 /* gradient image  */
 .gradient-image {
